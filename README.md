@@ -1,14 +1,16 @@
-Ben McMann Frontend Engineer Assessment - Transactions Dashboard
+# Ben McMann Frontend Engineer Assessment - Transactions Dashboard
 
-# How to set up the project
+## How to set up the project
 
-1. Clone the repo
-2. cd into ags-assignment
-3. npm install
-4. npm run dev
-5. go to http://localhost:5173/
+1. Clone this repository locally
+2. `cd ags-assignment`
+3. `npm install` to get dependencies
+4. `npm run dev` to launch the app
+5. go to http://localhost:5173/ to see the app in action
 
-# My Process
+Note: build on node v24.16.0
+
+## My Process
 
 - I had a good idea of how I would make a table view for the data going into it, and how I would specifically handle sort, filter and search
 - I scaffolded the project with all files and components I would need. I used static test data to prototype.
@@ -20,7 +22,7 @@ Ben McMann Frontend Engineer Assessment - Transactions Dashboard
 - For an aggregate summary, I decided to intially show simple text based metrics, and if time permitted I would make graphs, charts, etc.
 - I focused on functionality first, leaving visual flair only if time permitted
 
-# Things I Would Improve On
+## Things I Would Improve On
 
 - add color coding to status in table
 - standardize color mappings with visuals (so games have same colors in pie charts and so bar chart matches status colors I noted above)
@@ -33,7 +35,7 @@ Ben McMann Frontend Engineer Assessment - Transactions Dashboard
 - add filters to export
 - add some more responsiveness
 
-# Use of AI
+## Use of AI
 
 I elected to use the browser version of ChatGPT for this assignment. I used in in the following ways
 
